@@ -4,6 +4,8 @@
       <map>
         <entry key="show.diff.as.editor.tab" value="false" />
         <entry key="terminal.buffer.max.lines.count" value="10000" />
+        <entry key="clion.use.radler" value="true" />
+        <entry key="git.non.modal.commit" value="true" />
       </map>
     </option>
   </component>
