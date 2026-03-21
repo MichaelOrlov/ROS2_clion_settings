@@ -103,15 +103,15 @@
       <path value="root" />
       <path value="Main Toolbar" />
     </group>
-    <action id="Tool_External Tools_Build Up To Current" icon="/home/morlov/.config/JetBrains/CLion2025.2/settingsRepository/repository/icons/Colcon_BuildUpTo.png" />
-    <action id="Tool_External Tools_Clang Reformat" icon="/home/morlov/.config/JetBrains/CLion2025.2/settingsRepository/repository/icons/Clang_Format.png" />
-    <action id="Tool_External Tools_Uncrustify" icon="/home/morlov/.config/JetBrains/CLion2025.2/settingsRepository/repository/icons/Uncrustify.png" />
+    <action id="Tool_External Tools_Build Up To Current" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/icons/Colcon_BuildUpTo.png" />
+    <action id="Tool_External Tools_Clang Reformat" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/icons/Clang_Format.png" />
+    <action id="Tool_External Tools_Uncrustify" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/icons/Uncrustify.png" />
     <action id="ExternalToolsGroup" icon="jar:file:/opt/clion/lib/app-client.jar!/toolbar/unknown.svg" />
-    <action id="Tool_External Tools_Test Current" icon="/home/morlov/.config/JetBrains/CLion2025.2/settingsRepository/repository/icons/Colcon_TestPkg.png" />
+    <action id="Tool_External Tools_Test Current" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/icons/Colcon_TestPkg.png" />
     <action id="Tools_External Tools" icon="jar:file:/opt/clion/lib/app-client.jar!/expui/toolbar/unknown.svg" />
-    <action id="Tool_External Tools_Lint Cmake" icon="/home/morlov/.config/JetBrains/CLion2025.2/settingsRepository/repository/icons/LintCmake.png" />
-    <action id="Tool_External Tools_CPPLint" icon="/home/morlov/.config/JetBrains/CLion2025.2/settingsRepository/repository/icons/CPPLint.png" />
-    <action id="Tool_External Tools_Build Current" icon="/home/morlov/.config/JetBrains/CLion2025.2/settingsRepository/repository/icons/Colcon_BuildPkg.png" />
-    <action id="Tool_External Tools_Copyright" icon="/home/morlov/.config/JetBrains/CLion2025.2/settingsRepository/repository/icons/Copyright.png" />
+    <action id="Tool_External Tools_Lint Cmake" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/icons/LintCmake.png" />
+    <action id="Tool_External Tools_CPPLint" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/icons/CPPLint.png" />
+    <action id="Tool_External Tools_Build Current" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/icons/Colcon_BuildPkg.png" />
+    <action id="Tool_External Tools_Copyright" icon="$APPLICATION_CONFIG_DIR$/settingsRepository/repository/icons/Copyright.png" />
   </component>
 </application>
