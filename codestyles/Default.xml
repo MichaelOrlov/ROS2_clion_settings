@@ -1,4 +1,11 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
   <option name="RIGHT_MARGIN" value="99" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <CMakeCodeStyleSettings>
@@ -58,6 +65,11 @@
       <rule entity="GLOBAL_VARIABLE,LOCAL_VARIABLE" visibility="ANY" specifier="CONST" prefix="k" style="PASCAL_CASE" suffix="" />
     </rules>
   </Objective-C-extensions>
+  <RiderCodeStyleSettings>
+    <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/INDENT_SIZE/@EntryValue" value="2" type="long" />
+    <option name="/Default/CodeStyle/CodeFormatting/CppFormatting/TAB_WIDTH/@EntryValue" value="2" type="long" />
+    <option name="/Default/CodeStyle/EditorConfig/EnableClangFormatSupport/@EntryValue" value="false" type="bool" />
+  </RiderCodeStyleSettings>
   <files>
     <extensions>
       <pair source="cpp" header="hpp" fileNamingConvention="NONE" />
@@ -65,9 +77,12 @@
     </extensions>
   </files>
   <codeStyleSettings language="CMake">
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
@@ -87,7 +102,15 @@
     <option name="ASSIGNMENT_WRAP" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>

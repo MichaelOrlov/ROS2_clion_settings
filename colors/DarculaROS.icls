@@ -1,4 +1,5 @@
-<scheme name="DarculaApexAI" version="142" parent_scheme="Darcula">
+<scheme name="DarculaROS" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-06-25T18:04:57</property>
     <property name="ide">CLion</property>
@@ -6,6 +7,15 @@
     <property name="modified">2020-06-25T18:19:36</property>
     <property name="originalScheme">DarculaApexAI</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DialogInput" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
   <attributes>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
