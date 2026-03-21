@@ -3,6 +3,5 @@
     <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
     <variable name="COPY_INDEX" expression="INDEX" defaultValue="" alwaysStopAt="false" />
     <variable name="UPPER_BOUND" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
